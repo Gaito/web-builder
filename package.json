@@ -1,0 +1,22 @@
+{
+  "name": "@kseirin/web-builder",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kseirin/web-builder.git"
+  },
+  "author": "kseirin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kseirin/web-builder/issues"
+  },
+  "homepage": "https://github.com/kseirin/web-builder#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
